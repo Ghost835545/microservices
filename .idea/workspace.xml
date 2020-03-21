@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b16debaf-c5c4-474c-8fd3-0b74881e1f91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZR9sAVVdgdd5LenjQC1voBufFo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/services/backend/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/services/backend/src/main/resources" />
+      <recent name="$PROJECT_DIR$/services/backend/src/main/java/org.backend/service" />
+      <recent name="$PROJECT_DIR$/services/backend/src/main/java/org.backend/repository" />
+      <recent name="$PROJECT_DIR$/services/backend/src/main/java/org.backend/entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/services/backend/src/main/java" />
+      <recent name="$PROJECT_DIR$/services/backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.backend.App" />
+      <module name="microservices.services.backend.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b16debaf-c5c4-474c-8fd3-0b74881e1f91" name="Default Changelist" comment="" />
+      <created>1584791243489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584791243489</updated>
+      <workItem from="1584791247198" duration="6798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="215" width="847" height="684" key="#Project_Structure" timestamp="1584792346688">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="847" height="684" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1584792346688" />
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584791350783">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1584791350783" />
+    <state x="575" y="301" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584791349973">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="575" y="301" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1584791349973" />
+    <state x="72" y="481" width="953" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584792163841">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="72" y="481" width="953" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1584792163841" />
+    <state width="1802" height="180" key="GridCell.Tab.0.bottom" timestamp="1584813628584">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="180" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1584813628584" />
+    <state width="1802" height="180" key="GridCell.Tab.0.center" timestamp="1584813628583">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="180" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1584813628583" />
+    <state width="1802" height="180" key="GridCell.Tab.0.left" timestamp="1584813628583">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="180" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1584813628583" />
+    <state width="1802" height="180" key="GridCell.Tab.0.right" timestamp="1584813628584">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="180" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1584813628584" />
+  </component>
+</project>

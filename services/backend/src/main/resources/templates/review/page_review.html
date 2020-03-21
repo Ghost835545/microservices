@@ -1,0 +1,30 @@
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <link th:href="@{/css/style.css}" rel="stylesheet"/>
+    <link rel="icon" href="https://webliberty.ru/favicon.ico" type="image/x-icon">
+    <title>Форма отзыва</title>
+    <link rel="canonical" href="https://webliberty.ru/support/demo/contact/">
+    <script th:src="@{https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js}"></script>
+    <script th:src="@{https://www.google.com/recaptcha/api.js}"></script>
+    <script src="contact.js"></script>
+</head>
+<body>
+<header></header>
+<div class="wrapper">
+    <article>
+
+        <form action ="#" id="contact"  th:action="@{/add_r}" th:object="${review}" method="post" >
+            <H3>Форма обратной связи</H3>
+            <div id="fields">
+                <p><input type="text"  th:field="*{theme}" name="sub" id="url" placeholder="Тема" required> <label for="url">Тема сообщения</label></p>
+                <p><textarea           th:field="*{text}"    name="message" cols="1" rows="10" id="comment" placeholder="Введите сюда текст отзыва" required></textarea></p>
+                <input type="hidden"   th:field="*{date}">
+                <p><input type="submit" id="submit" class="go"></p>
+            </div>
+        </form>
+    </article>
+</div>
+</body>
+</html>

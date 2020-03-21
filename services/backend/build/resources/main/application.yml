@@ -1,0 +1,15 @@
+server:
+  port: 8185
+spring:
+  application:
+    name: microservices
+  data:
+    mongodb:
+      host: localhost
+      database: review
+      username: admin
+      password: admin
+      port: 27017
+      repositories:
+        type: auto
+

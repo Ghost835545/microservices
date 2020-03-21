@@ -1,0 +1,12 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
+    //implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:2.2.1.RELEASE'
+}
+
+bootJar{
+    baseName='backend-org.backend.service-spring-boot'
+    version= '0.0.1'
+}
+springBoot{
+    mainClassName='org.backend.App'
+}
